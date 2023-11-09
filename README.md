@@ -7,7 +7,7 @@ Data files and coding from the journal article "A free and user-friendly softwar
 2. Analysis Tutorial (**Supplemental 3_Analysis Code Tutorial.pdf**)
 3. ToxTrac output files (instant_speed, instant_accel, and tracking_realspace within **ToxTrac Outputs** file)
 4. Compiled data file from the swimming behavior analysis of treated rotifers (**Compiled_Data.csv**)
-5. R outputs from swimming behavior analysis (within **R Outputs** file)
+5. R code used for statistical analysis portion of swimming behavior analysis of treated rotifers (**Plots&Significance.R**)
 6. ToxTrac Tutorial video link: https://drive.google.com/file/d/1nEHCW5XpdBXC-dv0QWBA8vZ3PeTxPIla/view?usp=sharing
 7. HitFilm Tutorial video link: https://drive.google.com/file/d/1Y-bCoPxCzCHsbyS64t4Q-dWRUGYIfbCt/view?usp=sharing
 
