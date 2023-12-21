@@ -3,11 +3,11 @@ Data files and coding from the journal article "A free and user-friendly softwar
 
 
 **What's Included in Repository**
-1. Tutorial version of R Code used for Swimming Behavior Analysis (**SwimmingSpeedBehavior_PubCode.R**)
-2. Analysis Tutorial (**Supplemental 3_Analysis Code Tutorial.pdf**)
-3. ToxTrac output files (instant_speed, instant_accel, and tracking_realspace within **ToxTrac Outputs** file)
-4. Compiled data file from the swimming behavior analysis of treated rotifers (**Compiled_Data.csv**)
-5. R code used for statistical analysis portion of swimming behavior analysis of treated rotifers (**Plots&Significance.R**)
+1. Tutorial PDF (**Supplemental 3_Analysis Code Tutorial.pdf**)
+2. R Code used in Tutorial PDF (**SwimmingSpeedBehavior_PubCode.R**)
+3. ToxTrac output files from the supplemented rotifers experiment (instant_speed, instant_accel, and tracking_realspace within **ToxTrac Outputs** file)
+4. Compiled data file from the swimming behavior analysis of supplemented rotifers (**Compiled_Data.csv**)
+5. R code used for statistical analysis portion of the supplemented rotifers (**Plots&Significance.R**)
 6. ToxTrac Tutorial video link: https://drive.google.com/file/d/1nEHCW5XpdBXC-dv0QWBA8vZ3PeTxPIla/view?usp=sharing
 7. HitFilm Tutorial video link: https://drive.google.com/file/d/1Y-bCoPxCzCHsbyS64t4Q-dWRUGYIfbCt/view?usp=sharing
 
@@ -18,8 +18,8 @@ The primary aims of this study were to address the issues with tracking microfau
 This pipeline does not require coding to acquire tracking information (x, y coordinates) and all code used for post-processing is provided here to further aid in the usability of method. This protocol can be adapted for other microfaunal species that face similar issues with obtaining swimming behavioral measurements and can be used for experiments with limited funding.
 
 
-Publication can be accessed at
+Publication can be accessed at:
 
 
   
-  **Please cite this paper if you use this repository:**
+  **Please cite this paper if you use this repository**
