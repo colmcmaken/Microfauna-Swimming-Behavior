@@ -1,4 +1,7 @@
-###Trajectory Analysis
+###Microfauna Swimming Behavior Analysis
+#Install packages
+install.packages(c("trajr", "tidyverse", "ggpubr", "psych", "rstatix", "pgirmess", "EnvStats"))
+
 #Load library
 library(trajr) #swimming behavior metrics
 library(tidyverse) #contains ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, and forcats
